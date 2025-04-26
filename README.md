@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 - 💬 **Ask me about**: Backend development, caching strategies, and efficient system design.
 - 📫 **Contact me**:
   - LinkedIn: [Sarada Prasad Das](https://www.linkedin.com/in/sarada-prasad-das-45b72b1a2/)
+- 💬 **Leetcode**:
+  - Leetcode: [Sarada Prasad Das](https://leetcode.com/u/SaradaPrasadDas/)
 - ⚡ **Fun fact**: At sunrise am a coder at sunset am a gamer(Batman's voice) and love to explore different cuisines!
 
 ---
