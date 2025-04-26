@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and l
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saradaDas9866&show_icons=true&hide=issues&count_private=true&theme=radical&cache_seconds=1800)
+![Your GitHub Stats](https://streak-stats.demolab.com/?user=saradaDas9866&show_icons=true&hide=issues&count_private=true&theme=radical&cache_seconds=180)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saradaDas9866&layout=compact&theme=radical)](https://github.com/saradaDas9866)
 
